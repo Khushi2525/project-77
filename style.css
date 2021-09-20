@@ -1,0 +1,18 @@
+html{
+  text-align: center; 
+  background-color: rgb(0, 255, 170);
+  color: rgb(253, 0, 0);
+  
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+}
+
+p{
+    font-family: cursive;
+    font-size: 15px;
+    font-style: italic;
+}
